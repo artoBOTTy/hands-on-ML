@@ -1,0 +1,5 @@
+# All data can be cloned from the code
+000-datasets/
+
+# Ignore python notebook checkpoints
+*.ipynb_checkpoints
